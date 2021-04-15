@@ -1,0 +1,15 @@
+body{
+    background: url(https://wallpapercave.com/wp/NpMuvSU.jpg);
+}
+h1{
+    background:  url();
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+.main{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
