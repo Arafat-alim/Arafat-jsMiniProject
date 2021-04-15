@@ -1,4 +1,4 @@
-console.log("WelcomeHome")
+//console.log("WelcomeHome")
 var btnAdd = document.getElementById("add-item");
 
 btnAdd.addEventListener('click', function(){

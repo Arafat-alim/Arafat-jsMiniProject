@@ -1,7 +1,26 @@
 body{
     /* background-color: blueviolet; */
     background-color: beige;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); 
+    /* isko priority milega */
+      
 }
 div{
     text-align: center;
+}
+button{
+    color: white;
+    font-size: larger;
+    border: 10px;
+    background-color:  rgba(255,0,0,1);
+}
+input{
+    font-size: larger;
+    font-weight: 100px;
+}
+#colorhead{
+    color: darkred
+}
+#list{
+    font-size: 35px;
 }
