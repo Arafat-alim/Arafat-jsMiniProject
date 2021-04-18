@@ -7,18 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form Regex</title>
     <link rel="stylesheet" href="style.css">
-
 </head>
 
 <body>
     <h1>Welcome User</h1>
     <br>
     <div>
-        <input type="text" id="username" placeholder="Username"> <br> <br>
-        <input type="password" id="password" placeholder="Password"> <br> <br>
+        <input type="text" id="username" placeholder="Username">
+        <p id="paraText">Please enter a Valid username</p><br>
+        <input type="password" id="password" placeholder="Password">
         <script src="script.js"></script>
     </div>
-
+    <div>
+        <br>
+        <p id="displaymessage">Here Username cannot contained any Symbolic Character, Space and length must be 6 - 8
+            characters</p>
+    </div>
 </body>
 
 </html>

@@ -6,23 +6,34 @@ body{
     
 }
 #username{
-    font-size: 15px;
-    padding: 12px 24px;
-    margin-right: 16px;
-    border-radius: 8px;
-    border: 1px solid #ccc;
+    width: 50%;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    font-size: 24px;
     outline: none;
 }
 #password{
-    font-size: 15px;
-    padding: 12px 24px;
-    margin-right: 16px;
-    border-radius: 8px;
-    border: 1px solid #ccc;
+    width: 50%;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    font-size: 24px;
     outline: none;
 }
-h1{
+p{
+    color: lightcoral;
     font-size: 24px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: none;
+}   
+#displaymessage{
+    font-size: 24px;
+    display:block;
+    color: aqua;
 }
-
-
+h1{
+    font-size: 35px;
+}
