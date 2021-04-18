@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, #360033, #0b8793);
+    color: aqua;
+    text-align: center;
+}
+input{
+    width: 70%;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    font-size: 24px;
+    outline: none;
+}
