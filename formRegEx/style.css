@@ -1,0 +1,27 @@
+body{
+    /* background-color: blueviolet; */
+    text-align: center;
+    background-image: linear-gradient(to right, #52c234, #061700);
+    color: azure;
+    
+}
+#username{
+    font-size: 15px;
+    padding: 12px 24px;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+#password{
+    font-size: 15px;
+    padding: 12px 24px;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+h1{
+    font-size: 24px;
+}
+
